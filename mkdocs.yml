@@ -7,7 +7,7 @@ theme:
   #logo: images/logo.png      # opcional – só deixe se for usar
   #favicon: images/favicon.ico
 nav:
-  - Apresentação: index.md
+  - Apresentação: apresentacao.md
   - Visão Macro: visao_macro.md
 markdown_extensions:
   - admonition
