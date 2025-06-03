@@ -47,23 +47,4 @@ O Produto 1 é uma plataforma web que **unifica avaliações impressas e online*
 | 18 jun 2025 | Sprint 1 – CRUD de Itens | ⏳ Em desenvolvimento |
 | 02 jul 2025 | Sprint 2 – Geração de provas PDF | ⏳ Planejado |
 
-*(Atualize a tabela a cada fechamento de sprint.)*
-
 ---
-
-## Como contribuir
-
-1. **Clone** o repositório e siga o *README* para configurar o ambiente.  
-2. Crie uma branch a partir de `main`.  
-3. Faça commits pequenos e semânticos.  
-4. Abra um **pull-request** incluindo código **e** documentação.  
-5. Aguarde a revisão automática dos testes e a revisão humana de pares.
-
----
-
-> *Dúvidas, sugestões ou correções? Abra uma issue ou mencione-nos no Trello/Jira correspondente.*
-
-
-
-
-
