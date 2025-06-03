@@ -1,4 +1,5 @@
-# Visão Macro — Produto 1 \– Plataforma de Avaliação Híbrida
+# Visão Macro
+# Produto 1 – Plataforma de Avaliação Híbrida
 
 > *Versão inicial – 4 de junho de 2025*
 
