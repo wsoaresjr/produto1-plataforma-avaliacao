@@ -1,0 +1,14 @@
+site_name: Produto 1 – Plataforma de Avaliação
+site_url: https://wsoaresjr.github.io/produto1-plataforma-avaliacao/
+repo_url: https://github.com/wsoaresjr/produto1-plataforma-avaliacao
+theme:
+  name: material
+  language: pt-BR
+  #logo: images/logo.png      # opcional – só deixe se for usar
+  #favicon: images/favicon.ico
+nav:
+  - Visão Macro: index.md
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
