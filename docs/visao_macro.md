@@ -107,11 +107,11 @@ O fluxo de login direciona cada perfil às telas adequadas.
 ## 9  Métricas de Sucesso
 
 * ≥70 % dos professores da rede criando ao menos 1 avaliação no semestre.
-* Tempo médio de criação de avaliação ≤ 10 min.
-* Tempo médio de correção (impressa) ≤ 5 min após upload dos cartões.
+* Tempo médio de criação de avaliação ≤ 50 min.
+* Tempo médio de correção (impressa) ≤ 15 min após upload dos cartões.
 * NPS ≥ 65 entre professores.
 * Redução de 90 % nos erros de correção manual.
-* Engajamento dos alunos: ≥80 % concluem as provas on‑line no prazo.
+* Engajamento dos alunos: ≥ 80 % concluem as provas on‑line no prazo.
 
 ---
 
@@ -119,7 +119,7 @@ O fluxo de login direciona cada perfil às telas adequadas.
 
 | Papel                        | Responsável                              | Descrição                          |
 | ---------------------------- | ---------------------------------------- | ---------------------------------- |
-| **Product Owner**            |  Walter (Squad Pedagógico)               | Prioriza backlog e valida entregas |
+| **Product Owner**            |  Consultor (Squad Pedagógico)            | Prioriza backlog e valida entregas |
 | **Tech Lead**                |  \[Nome]                                 | Arquitetura, revisão de código     |
 | **Desenvolvedores**          | 2–3 full‑stack                           | Implementação, testes              |
 | **UX Designer**              |  \[Nome]                                 | Jornada do usuário e protótipos    |
